@@ -1,5 +1,3 @@
-
-
 public class Polymorphism {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
@@ -13,7 +11,6 @@ public class Polymorphism {
         myCat.sound();
         myCat.purr();
     }
-
 }    
 class Calculator {
     public int add(int a, int b) {
